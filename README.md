@@ -1,7 +1,4 @@
 # Caso 5 — Sistema de Licenciamento Público
-Aqui está um resumo estruturado do **Caso 5**, focado nos pontos que geram regras de negócio para o seu modelo de domínio:
-
----
 
 ## 📋 Resumo: Caso 5 — Sistema de Licenciamento Público
 
@@ -35,5 +32,3 @@ O domínio se estende após a entrega da licença. A prefeitura mantém o poder 
 * Interdição da atividade.
 * **Cassação da licença** (extinção do direito concedido anteriormente).
  seu diagrama, essas regras devem aparecer como métodos e associações claras.
-
-**Gostaria que eu resumisse também as possíveis "dores" ou problemas que esse caso tenta resolver para você usar na introdução do seu trabalho?**
